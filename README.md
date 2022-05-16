@@ -20,7 +20,7 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 
 Deploy in your vps
 ```sh
-git clone https://github.com/Jijinr/Frwdit
+git clone https://github.com/DARKRMPIRESL/Frwdit
 cd Frwit
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -38,10 +38,10 @@ python3 main.py
 * `CAPTION` If you want to add a caption to the forwarded file, enter it here
 * `FILTER_TYPE` Enter Filter type eg:- document or audio or photo or empty
 * `SKIP_NO` Enter File Skiping Number default number '0' 
-* `SESSION` Enter Pyrogram session string [String Generator](https://replit.com/@JijinR/PyroSessionString)
+* `SESSION` Enter Pyrogram session string [String Generator](https://replit.com/@darkempireslbots/PyroSessionString?v=1) or [Dark String Session Generator Bot](https://t.me/darkStringGenBot)
 
 
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* `Special Thanks Dump Group Members`🤣
+* [𝕯𝖆𝖗𝖐 𝕰𝖒𝖕𝖎𝖗𝖊](https://t.me/ImDark_Empire) ``me``
