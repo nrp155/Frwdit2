@@ -11,9 +11,7 @@ class Config:
     API_HASH = os.environ.get("API_HASH", "7d2ccae297d9bddc2c1a704f4db9051a")
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "1879736366:AAEgEsv8L90BmNn5IamLJbQFa2H4AXg-WuY") 
     BOT_SESSION = os.environ.get("BOT_SESSION", "bot") 
-    CAPTION = os.environ.get("CAPTION", "EMail - contact@subscenelk.com
-                                         Ste - https://www.subscenelk.com/
-                                       ste - https://filmsbay.blogspot.com/")
+    CAPTION = os.environ.get("CAPTION", "")
     FROM_CHANNEL = os.environ.get("FROM_CHANNEL", "-1001416144010")
     FILTER_TYPE = os.environ.get("FILTER_TYPE", "")
     OWNER_ID = os.environ.get("OWNER_ID", "1553961614")
